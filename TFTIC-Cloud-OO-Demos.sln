@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Interface", "Demo-Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Delegate-Event", "Demo-Delegate-Event\Demo-Delegate-Event.csproj", "{60FA76F1-C92E-4DC4-8AF9-38DCF78C17F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Genericite", "Demo-Genericite\Demo-Genericite.csproj", "{6B82B728-E81E-43A8-82CD-CE59B0657266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{60FA76F1-C92E-4DC4-8AF9-38DCF78C17F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60FA76F1-C92E-4DC4-8AF9-38DCF78C17F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60FA76F1-C92E-4DC4-8AF9-38DCF78C17F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B82B728-E81E-43A8-82CD-CE59B0657266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B82B728-E81E-43A8-82CD-CE59B0657266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B82B728-E81E-43A8-82CD-CE59B0657266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B82B728-E81E-43A8-82CD-CE59B0657266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
